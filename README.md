@@ -36,7 +36,7 @@ A simple, cross-platform alarm clock application built with Python and Tkinter. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/alarm-clock.git
+   git clone https://github.com/Rencio/alarm-clock.git
    cd alarm-clock
    ```
 
@@ -179,9 +179,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+**Rencio**
+- GitHub: [@Rencio](https://github.com/Rencio)
 
 ## 🙏 Acknowledgments
 
